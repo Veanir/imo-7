@@ -1,0 +1,10 @@
+Instance: kroa200
+  Correlation (Vertex Pairs vs S_best): -0.0259
+  Correlation (Common Edges vs S_best): -0.3279
+  Plots: output/kroa200_convexity_vertex_pairs.png, output/kroa200_convexity_common_edges.png
+---
+Instance: krob200
+  Correlation (Vertex Pairs vs S_best): -0.0825
+  Correlation (Common Edges vs S_best): -0.3220
+  Plots: output/krob200_convexity_vertex_pairs.png, output/krob200_convexity_common_edges.png
+---
